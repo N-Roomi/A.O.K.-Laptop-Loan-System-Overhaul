@@ -12,4 +12,4 @@
 | Nima    | Lead Developer/Programmer | *       |
 | Alex V. | Database Administrator    | *       |
 
-\* Emails are not provided in README since bots can and will scrape email info of public repos 
+\* Emails are not provided in README since bots can and will scrape email info off public repos 
