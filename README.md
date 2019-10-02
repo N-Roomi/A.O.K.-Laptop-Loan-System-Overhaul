@@ -1,4 +1,4 @@
-# A.O.K.-Laptop-Loan-System-Overhaul
+# A.O.K. Laptop Loan System Overhaul
 
 
 ## ![alt text](https://github.com/N-Roomi/A.O.K.-Laptop-Loan-System-Overhaul/blob/master/TeamLogo.png "Meticulous Evolution Consulting LOGO") Meticulous Evolution Consulting
